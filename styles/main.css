@@ -127,3 +127,28 @@ section, footer, div {
     border-color: transparent;
     background-color: #AAAEBD;
 }
+
+#footer-copyright {
+    color: white;
+    font-family: "brandon-grotesque", sans-serif;
+    font-size: 0.75rem;
+    font-weight: 200;
+    letter-spacing: 3px;
+    text-align: center;
+    padding: 50px 0 100px 0;
+}
+
+#footer-copyright .made-with-love {
+    padding: 0 0 20px 0;
+}
+
+#footer-copyright .copyright {
+    color: rgba(255, 255, 255, 0.5);
+    margin: 0 0 60px 0;
+}
+
+#footer-copyright .twitter img {
+    margin: 0 0 10px 0;
+    width: 10%;
+    height: 10%;
+}
